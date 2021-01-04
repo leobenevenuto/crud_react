@@ -1,16 +1,9 @@
 {
-
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "leonardo.web02@gmail.com"
-
-    }, {
-
-        "id": 2,
-        "name": "Leonardo Benevenuto",
-        "email": "leonardojbnv@gmail.com"
-
-    }]
-
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcos Palmeiras.",
+      "email": "leonardo.web02@gmail.com"
+    }
+  ]
 }
